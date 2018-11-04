@@ -3,3 +3,4 @@ Codevember is a challenge for developers to sharpen their creativity and improve
 
 * [Day 01 - Infinity](https://codepen.io/H0tFudge/full/pQzpoq/)
 * [Day 02 - Time](https://codepen.io/H0tFudge/full/gQORVm/)
+* [Day 03 - Carrot](https://codepen.io/H0tFudge/full/wQBaqZ/)
