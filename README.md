@@ -5,3 +5,4 @@ Codevember is a challenge for developers to sharpen their creativity and improve
 * [Day 02 - Time](https://codepen.io/H0tFudge/full/gQORVm/)
 * [Day 03 - Carrot](https://codepen.io/H0tFudge/full/wQBaqZ/)
 * [Day 04 - Sky](https://codepen.io/H0tFudge/full/XyJoBL/)
+* [Day 05 - Music](https://codepen.io/H0tFudge/full/XybvPO/)
