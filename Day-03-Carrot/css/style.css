@@ -1,0 +1,25 @@
+body {
+  margin:0;
+  background-color:black;
+}
+h2{
+  font-family:"Courier New";
+  color:white;
+  text-align:center;
+}
+#carrotContainer {
+    width: 100%;
+    height: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    position:absolute;
+}
+.carrotAnimation {
+  width: 6px;
+  height: 6px;
+  border-radius:3px;
+  position: absolute;
+}

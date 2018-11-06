@@ -1,0 +1,38 @@
+body {
+  margin:0;
+  background-color:black;
+}
+h1{
+  font-family:"Courier New";
+  color:white;
+  text-align:center;
+}
+#musicContainer {
+    width: 100%;
+    height: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    position:absolute;
+}
+.musicAnimation {
+  animation : MoveUpDown 1s linear infinite;
+  width:40px;
+  height: 40px;
+  border-radius:20px;
+  position: absolute;
+  background-color: white;
+  opacity:0.4;
+  filter:blur(2px);
+}
+
+@keyframes MoveUpDown {
+  0%, 100% {
+    top: 400px;
+  }
+  50% {
+    top: 420px;
+  }
+}
