@@ -8,4 +8,4 @@ Codevember is a challenge for developers to sharpen their creativity and improve
 * [Day 05 - Music](https://codepen.io/H0tFudge/full/XybvPO/)
 * [Day 06 - Web](https://codepen.io/H0tFudge/full/aQvMMq/)
 * [Day 07 - Sea](https://codepen.io/H0tFudge/full/GwoKor/)
-*[Day 08 -Cat](https://codepen.io/H0tFudge/full/WYxZxR/)
+* [Day 08 -Cat](https://codepen.io/H0tFudge/full/WYxZxR/)
