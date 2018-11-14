@@ -9,3 +9,8 @@ Codevember is a challenge for developers to sharpen their creativity and improve
 * [Day 06 - Web](https://codepen.io/H0tFudge/full/aQvMMq/)
 * [Day 07 - Sea](https://codepen.io/H0tFudge/full/GwoKor/)
 * [Day 08 - Cat](https://codepen.io/H0tFudge/full/WYxZxR/)
+* [Day 09 - Green](https://codepen.io/H0tFudge/full/OaXYvX/)
+* [Day 10 - Apple](https://codepen.io/H0tFudge/full/eQBgJj/)
+* [Day 11 - RGB]
+* [Day 12 - Bread]
+* [Day 13 - Black Hole](https://codepen.io/H0tFudge/full/Gwrjwd/)
